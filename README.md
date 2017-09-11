@@ -31,14 +31,14 @@ You can fork or download the plugin from GitHub, or you can install it from [awe
 
 ### 2. Load the Bootstrap Awesome Buttons CSS file ###
 
-Inside the page's head tag after Bootstrap main css file include the slider's CSS file.
+Inside the page's head tag after Bootstrap main css file include the Bootstrap Awesome Buttons CSS file.
 
-### 1. Add minified version ###
+#### 1. Add minified version ####
 ```html
 <link rel="stylesheet" href="bootstrap.min.css"/>
 <link rel="stylesheet" href="awesome-bootstrap-buttons.min.css"/>
-`
-### 1. Add unminified version ###
+```
+#### 1. Add unminified version ####
 ```html
 <link rel="stylesheet" href="bootstrap.css"/>
 <link rel="stylesheet" href="awesome-bootstrap-buttons.css"/>
