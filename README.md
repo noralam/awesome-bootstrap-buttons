@@ -27,7 +27,7 @@ Main features:
 
 ### 1. Get a copy of the plugin ###
 
-You can fork or download the plugin from GitHub, or you can install it from [awesomebootstrap.net ](http://awesomebootstrap.net/bootstrap-awesome-buttons/).
+You can fork or download the plugin from GitHub, or you can install it from [awesomebootstrap.net ](http://awesomebootstrap.net/bootstrap-awesome-buttons-all/).
 
 ### 2. Load the Bootstrap Awesome Buttons CSS file ###
 
