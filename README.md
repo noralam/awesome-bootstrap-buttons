@@ -21,7 +21,7 @@ Main features:
 
 # [Live preview and all CSS Buttons class  ](http://awesomebootstrap.net/bootstrap-awesome-buttons/) #
 
-<img src="http://awesomebootstrap.net/wp-content/uploads/2017/09/bootstrap-awesome-buttons.jpg" alt="awesome-bootstrap-buttons" />
+<a href="http://awesomebootstrap.net/bootstrap-awesome-buttons/" alt="_blank"><img src="http://awesomebootstrap.net/wp-content/uploads/2017/09/bootstrap-awesome-buttons.jpg" alt="awesome-bootstrap-buttons" /></a>
 
 ## Getting started ##
 
