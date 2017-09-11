@@ -1,4 +1,4 @@
-# [Bootstrap Awesome Buttons - Create elegant and professional buttons  ](http://awesomebootstrap.net/bootstrap-awesome-buttons/) #
+# [Bootstrap Awesome Buttons](http://awesomebootstrap.net/bootstrap-awesome-buttons/) - Create elegant and professional buttons #
 
 > A Bootstrap Buttons library for your Bootstrap projects.
 
